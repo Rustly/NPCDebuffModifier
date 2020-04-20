@@ -1,0 +1,15 @@
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\NPCDebuffModifier.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\NPCDebuffModifier.pdb
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\Newtonsoft.Json.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\OTAPI.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\TerrariaServer.exe
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\TShockAPI.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\HttpServer.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\MySql.Data.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\BCrypt.Net.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\Mono.Data.Sqlite.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.csproj.CoreCompileInputs.cache
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.csproj.CopyComplete
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.dll
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.pdb
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.csprojAssemblyReference.cache
