@@ -60,7 +60,7 @@ namespace NPCDebuffModifier
         {
             if ((DateTime.UtcNow - LastUpdate).TotalMilliseconds >= Config.BuffTimerInMilliseconds)
             {
-                if (TShock.Utils.ActivePlayers() == 0)
+                if (TShock.Utils.GetActivePlayerCount() == 0)
                 {
                     LastUpdate = DateTime.UtcNow;
                     return;

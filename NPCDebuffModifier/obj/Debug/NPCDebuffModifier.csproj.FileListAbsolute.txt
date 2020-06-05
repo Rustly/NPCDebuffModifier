@@ -13,3 +13,5 @@ G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.csproj.
 G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.dll
 G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.pdb
 G:\repos\NPCDebuffModifier\NPCDebuffModifier\obj\Debug\NPCDebuffModifier.csprojAssemblyReference.cache
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\OTAPI.pdb
+G:\repos\NPCDebuffModifier\NPCDebuffModifier\bin\Debug\TerrariaServer.pdb
